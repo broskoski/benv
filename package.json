@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "rewire": "^2.3.1",
-    "jsdom": "4.x"
+    "jsdom": "3.x"
   },
   "devDependencies": {
     "mocha": "^2.2.1",
